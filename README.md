@@ -212,4 +212,4 @@ JourneyMap is offered as a complete free version with all features and updates i
 Unlock the full potential of your Minecraft adventures with JourneyMap! Download now and start exploring like never before.
 
 ---
-**Last updated:** 2026-11-06 01:55:47 UTC
+**Last updated:** 2026-11-06 08:49:38 UTC
